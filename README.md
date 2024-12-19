@@ -7,7 +7,8 @@
 
 ## Habilidades
 
-**![Toyota](https://img.shields.io/badge/Toyota-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white)** **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)** **![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)**  **<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>**
+[**![Toyota](https://img.shields.io/badge/Toyota-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white)**](https://www.toyota.com.br/)
+ **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)** **![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)**  **<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>**
  **<img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />** **<img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />**  **![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)** **![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)**
  **![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)**  
  **![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-FF6F61?style=for-the-badge&logo=ai&logoColor=white)**  
