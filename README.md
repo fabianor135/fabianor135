@@ -9,6 +9,27 @@
 
  **<img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />** **<img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />**  **![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)** **![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)**
 
+- **Programação e Desenvolvimento**
+  - Python
+  - .NET
+  - Lógica de Programação
+
+- **Plataformas e Tecnologias**
+  - Azure Machine Learning
+  - GitHub
+  - IoT
+  - Inteligência Artificial
+  - Indústria 4.0
+
+- **Engenharia e Infraestrutura**
+  - Redes de Computadores
+  - Eletrotécnica
+
+- **Soft Skills**
+  - Solução de Problemas
+  - Toyota (Metodologias ou Cultura)
+
+
 
 
 **![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)**  **![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)**
