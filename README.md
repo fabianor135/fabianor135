@@ -7,19 +7,15 @@
 
 ## Habilidades
 
- **<img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />** **<img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />**  **![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)** **![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)**
-**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**  
-**![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)**  
-**![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)**  
-**![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-FF6F61?style=for-the-badge&logo=ai&logoColor=white)**  
-**![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=internet-of-things&logoColor=white)**  
-**![Redes de Computadores](https://img.shields.io/badge/Redes_de_Computadores-007ACC?style=for-the-badge&logo=network&logoColor=white)**  
-**![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-228B22?style=for-the-badge&logo=code&logoColor=white)**  
-**![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)**  
-**![Indústria 4.0](https://img.shields.io/badge/Indústria_4.0-FFA500?style=for-the-badge&logo=industry&logoColor=white)**  
-**![Eletrotécnica](https://img.shields.io/badge/Eletrotécnica-DC143C?style=for-the-badge&logo=engineering&logoColor=white)**  
-**![Solução de Problemas](https://img.shields.io/badge/Solução_de_Problemas-8A2BE2?style=for-the-badge&logo=problem-solving&logoColor=white)**  
 **![Toyota](https://img.shields.io/badge/Toyota-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white)**  
+ **<img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />** **<img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />**  **![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)** **![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)**
+**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**  **![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)**  
+**![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)** **![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-FF6F61?style=for-the-badge&logo=ai&logoColor=white)**  
+**![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=internet-of-things&logoColor=white)** **![Redes de Computadores](https://img.shields.io/badge/Redes_de_Computadores-007ACC?style=for-the-badge&logo=network&logoColor=white)**  
+**![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-228B22?style=for-the-badge&logo=code&logoColor=white)** **![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)**  
+**![Indústria 4.0](https://img.shields.io/badge/Indústria_4.0-FFA500?style=for-the-badge&logo=industry&logoColor=white)** **![Eletrotécnica](https://img.shields.io/badge/Eletrotécnica-DC143C?style=for-the-badge&logo=engineering&logoColor=white)**  
+**![Solução de Problemas](https://img.shields.io/badge/Solução_de_Problemas-8A2BE2?style=for-the-badge&logo=problem-solving&logoColor=white)**  
+
 
 
 
