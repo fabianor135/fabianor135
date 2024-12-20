@@ -5,7 +5,7 @@
 
 
 
-[**![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-228B22?style=for-the-badge&logo=code&logoColor=white)**](https://www.dio.me/users/fabianor135).  **[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabianor135@gmail.com)** **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-rodrigues-leite-820855179/)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-rodrigues-leite-820855179/)** [**![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-228B22?style=for-the-badge&logo=code&logoColor=white)**](https://www.dio.me/users/fabianor135).  **[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabianor135@gmail.com)** 
 
 ## Habilidades
 
