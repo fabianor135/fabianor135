@@ -1,9 +1,18 @@
 
 # Fabianor135   
-[![CPFL – Logotipo](cpfl.jpeg)](https://www.cpfl.com.br)
+<div align="center" style="background-color:#000000; padding:20px; border-radius:10px; width:300px;">
 
-**CPFL Energias**  
-Empresa de distribuição de energia elétrica
+  <a href="https://www.cpfl.com.br" target="_blank">
+    <img src="./img/cpfl_logo_transparente.png" alt="Logotipo da CPFL" width="160"/>
+  </a>
+
+  <h3 style="color:#E94D5F; margin-top:12px; font-weight:600;">CPFL Energias</h3>
+  <p style="color:#FFFFFF; font-size:14px; margin:6px 0 0;">
+    Empresa de distribuição de energia elétrica
+  </p>
+
+</div>
+
 
 
 
