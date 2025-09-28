@@ -1,5 +1,5 @@
 
-# Fabianor135 [![CPFL Card](https://github-readme-stats.vercel.app/api/pin/?username=cpfl&repo=cpfl-energias&bg_color=000000&border_color=00A3DC&title_color=E94D5F&text_color=FFFFFF&show_icons=true&icon_color=00A3DC)](https://www.cpfl.com.br)
+# Fabianor135 [![CPFL Logo](https://img.shields.io/badge/CPFL-Energias-00A3DC?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/29/CPFL_Energias_logo.svg&logoColor=FFFFFF)](https://www.cpfl.com.br)
 
 
 
