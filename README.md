@@ -1,5 +1,5 @@
 
-# Fabianor135    [![CPFL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CPFL_Energias_logo.svg/1200px-CPFL_Energias_logo.svg.png)](https://www.cpfl.com.br)
+# Fabianor135   [![CPFL Logo](https://img.shields.io/badge/CPFL-%2300A3DC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABxUlEQVQ4T6XTT0gVURgH8M+EMG1oQE7qYqQ6s1Kl9YhBoqgENFQKpShJECEaipQaFbY2CCFKWqOl3N3s7u7iXIlD8m9+yLZ2Zl9ZP3z3nO+5wyhUs7AqAWr2E0wi/g8m0f3hhR6)]()
 
 
 ## Conecte-se comigo clicando nos links abaixo:
