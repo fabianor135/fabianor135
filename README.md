@@ -1,5 +1,6 @@
 
-# Fabianor135   [![CPFL Logo](https://img.shields.io/badge/CPFL-%2300A3DC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABxUlEQVQ4T6XTT0gVURgH8M+EMG1oQE7qYqQ6s1Kl9YhBoqgENFQKpShJECEaipQaFbY2CCFKWqOl3N3s7u7iXIlD8m9+yLZ2Zl9ZP3z3nO+5wyhUs7AqAWr2E0wi/g8m0f3hhR6)]()
+# Fabianor135 [![CPFL Card](https://github-readme-stats.vercel.app/api/pin/?username=cpfl&repo=cpfl-energias&bg_color=000000&border_color=00A3DC&title_color=E94D5F&text_color=FFFFFF&show_icons=true&icon_color=00A3DC)](https://www.cpfl.com.br)
+
 
 
 ## Conecte-se comigo clicando nos links abaixo:
