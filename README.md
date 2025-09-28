@@ -1,12 +1,9 @@
 
 # Fabianor135   
-<div align="center" style="background-color:#000000; padding:20px; border:3px solid #00A3DC; border-radius:10px; width:300px; display:inline-block;">
-  <a href="https://www.cpfl.com.br" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/CPFL_Energias_logo.svg" alt="Logotipo da CPFL" width="120"/>
-  </a>
-  <h3 style="color:#E94D5F; margin-top:10px;">CPFL Energias</h3>
-  <p style="color:#FFFFFF; font-size:14px; margin-top:5px;">Empresa de distribuição de energia elétrica</p>
-</div>
+[![CPFL – Logotipo](img/cpfl_logo_transparente_otimizado.png)](https://www.cpfl.com.br)
+
+**CPFL Energias**  
+Empresa de distribuição de energia elétrica
 
 
 
