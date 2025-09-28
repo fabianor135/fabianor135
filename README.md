@@ -1,6 +1,6 @@
 
 # Fabianor135   
-[![CPFL – Logotipo](img/cpfl_logo_transparente.png)](https://www.cpfl.com.br)
+[![CPFL – Logotipo](cpfl.jpeg)](https://www.cpfl.com.br)
 
 **CPFL Energias**  
 Empresa de distribuição de energia elétrica
