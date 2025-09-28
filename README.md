@@ -3,7 +3,7 @@
 <div align="center" style="background-color:#000000; padding:20px; border-radius:10px; width:300px;">
 
   <a href="https://www.cpfl.com.br" target="_blank">
-    <img src="./img/cpfl_logo_transparente.png" alt="Logotipo da CPFL" width="160"/>
+    <img src="cpfl.jpeg" alt="Logotipo da CPFL" width="160"/>
   </a>
 
   <h3 style="color:#E94D5F; margin-top:12px; font-weight:600;">CPFL Energias</h3>
