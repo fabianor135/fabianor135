@@ -1,5 +1,6 @@
 
-# Fabianor135     [**![Toyota](https://img.shields.io/badge/Toyota-EB0A1E?style=for-the-badge&logo=toyota&logoColor=white)**](https://www.toyota.com.br/)
+# Fabianor135    [![CPFL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CPFL_Energias_logo.svg/1200px-CPFL_Energias_logo.svg.png)](https://www.cpfl.com.br)
+
 
 ## Conecte-se comigo clicando nos links abaixo:
 
