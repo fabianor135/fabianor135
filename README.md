@@ -2,13 +2,19 @@
 # Fabianor135   
 <div align="center" style="background-color:#000000; padding:20px; border-radius:10px; width:300px;">
 
-  <a href="https://www.cpfl.com.br" target="_blank">
-    <img src="cpfl.jpeg" alt="Logotipo da CPFL" width="160"/>
+  <a href="#" target="_blank">
+    <img src="icone3.png" alt="SAP + CPFL + Python" width="160"/>
   </a>
 
-  <h3 style="color:#E94D5F; margin-top:12px; font-weight:600;">CPFL Energias</h3>
+  <h3 style="color:#E94D5F; margin-top:12px; font-weight:600;">
+    SAP + CPFL + Python
+  </h3>
+
   <p style="color:#FFFFFF; font-size:14px; margin:6px 0 0;">
-    Empresa de distribuição de energia elétrica
+    Automação • Dados • Energia
+  </p>
+
+</div>
   </p>
 
 </div>
