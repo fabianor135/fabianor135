@@ -1,26 +1,17 @@
 
 # Fabianor135   
-<div align="center">
+<div align="center" style="background-color:#000000; padding:20px; border-radius:10px; width:300px;">
 
-  <a href="./cpflsap.mp4">
-    <img src="icone3.png" alt="Demonstração do Sistema" width="180"/>
+  <a href="#" target="_blank">
+    <img src="icone3.png" alt="SAP + CPFL + Python" width="160"/>
   </a>
 
-  <h3>
+  <h3 style="color:#E94D5F; margin-top:12px; font-weight:600;">
     SAP + CPFL + Python
   </h3>
 
-  <p>
+  <p style="color:#FFFFFF; font-size:14px; margin:6px 0 0;">
     Automação • Dados • Energia
-  </p>
-
-  <br>
-
-  🎥 <b>Clique na imagem para assistir ao vídeo da automação</b>
-
-</div>
-
-</div>
   </p>
 
 </div>
